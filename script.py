@@ -4,4 +4,4 @@ def sum(x,y):
 
 
 sum(3,4)
-# nor kolkfekperkgmpolb elgormk
+sum(6,7)
