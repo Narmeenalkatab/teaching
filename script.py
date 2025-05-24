@@ -4,4 +4,5 @@ def sum(x,y):
 
 
 sum(3,4)
-sum(6,7)
+
+print(sum(6,7))
